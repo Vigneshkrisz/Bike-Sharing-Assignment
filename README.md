@@ -4,11 +4,11 @@ A bike-sharing system is a service in which bikes are made available for shared 
 ## Table of Contents
 * [Problem Statement](#Problem-Statement)
 * [Description and Data Loading](#Description-and-ata-oading)
-* [Data cleaning](#Data cleaning)
-* [Exploratory Data Analysis](#Exploratory Data Analysis)
-* [Linear Regression](#Exploratory Data Analysis)
-* [Feature Selection](#Feature Selection)
-* [Model evaluation](#Model evaluation)
+* [Data cleaning](#Data-cleaning)
+* [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+* [Linear Regression](#LinearRegression)
+* [Feature Selection](#FeatureSelection)
+* [Model evaluation](#Modelevaluation)
 
 
 ## General Information
