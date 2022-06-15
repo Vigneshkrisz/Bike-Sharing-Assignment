@@ -3,13 +3,13 @@
 
 
 ## Table of Contents
-* [Problem Statement](#general-information)
-* [Description and Data Loading](#technologies-used)
-* [Data cleaning](#conclusions)
-* [Exploratory Data Analysis](#acknowledgements)
-* [Linear Regression]
-* [Feature Selection]
-* [Model evaluation]
+* [Problem Statement](#Problem Statement)
+* [Description and Data Loading](#Description and Data Loading)
+* [Data cleaning](#Data cleaning)
+* [Exploratory Data Analysis](#Exploratory Data Analysis)
+* [Linear Regression](#(#Exploratory Data Analysis))
+* [Feature Selection](#Feature Selection)
+* [Model evaluation](#Model evaluation)
 
 
 ## General Information
@@ -28,9 +28,6 @@
 - It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. 
 
 
-
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 - Our current model has an overall good accuracy. 
@@ -65,13 +62,5 @@
 - Libraries used for model building
   - scikit-learn   
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
